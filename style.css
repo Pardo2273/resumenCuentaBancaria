@@ -1,0 +1,29 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    text-align: center;
+    background-color: aliceblue;
+    border: 1rem double;
+
+}
+
+h1{
+    font-size: 2.6rem;
+    color: rgb(68, 68, 68);
+}
+
+h3{
+    font-size: xx-large;
+    color: #5c5a5a;
+    font-style: oblique;
+}
+
+.container{
+    display: grid;
+}
+ label{
+    margin: 2px 0;
+    font-weight: 400;
+ }
